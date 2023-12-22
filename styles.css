@@ -6,3 +6,7 @@ h1 {
 .slidev-layout p {
   line-height: 2.5rem;
 }
+
+.text-blue {
+  color: #2B90B6 !important;
+}
